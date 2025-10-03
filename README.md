@@ -10,7 +10,6 @@
 
   - 🔭 I’m currently working on a cool project involving **Express.js and PostgreSQL and Prisma ORM**.
   - 🌱 I’m currently learning more about **DevOps and cloud deployment**.
-  - 💬 Ask me about **React, Node.js, and database design**.
   - 📫 How to reach me: **htunaungkyaw730@gmail.com**
 </p>
 
@@ -57,6 +56,6 @@ Here are some of the technologies I work with:
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://htunaungkyaw-portfolio.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="portfolio"/></a>
-  <a href="https://www.linkedin.com/in/htun-aung-kyaw-385285352/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://htunaungkyaw-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/htun-aung-kyaw-385285352/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   </p>
