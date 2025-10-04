@@ -9,18 +9,17 @@
   I'm a developer with a strong foundation in both front-end and back-end technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I love to learn new things and am always looking to expand my skillset.
 
   - 🔭 I’m currently working on a cool project involving **Express.js and PostgreSQL and Prisma ORM**.
-  - 🌱 I’m currently learning more about **DevOps and cloud deployment**.
+  - 🌱 I’m currently learning more about **DevOps and cloud deployment**.f
   - 📫 How to reach me: **htunaungkyaw730@gmail.com**
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 🔗 Connect with me
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtunAungKyaw73&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+<p align="left">
+  <a href="https://htunaungkyaw-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/htun-aung-kyaw-385285352/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 ---
@@ -54,9 +53,12 @@ Here are some of the technologies I work with:
 
 ---
 
-### 🔗 Connect with me
+### 📊 My GitHub Stats
 
-<p align="left">
-  <a href="https://htunaungkyaw-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="portfolio"/></a>
-  <a href="https://www.linkedin.com/in/htun-aung-kyaw-385285352/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtunAungKyaw73&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
