@@ -15,6 +15,16 @@
 
 ---
 
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtunAungKyaw73&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 🛠️ My Skills
 
 Here are some of the technologies I work with:
@@ -40,16 +50,6 @@ Here are some of the technologies I work with:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose"/></a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtunAungKyaw73&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
