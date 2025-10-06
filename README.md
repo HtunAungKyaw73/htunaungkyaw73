@@ -46,17 +46,24 @@ Here are some of the technologies I work with:
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"/></a>
   <br><br>
   <strong>Frontend Tools:</strong><br>
-  <a href="https://axios-http.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="axios"/> </a>
-  <a href="https://zod.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="zod"/> </a>
-  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="reacthookform"/> </a>
-  <br><br>
+  <a href="https://axios-http.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="axios"/></a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="zod"/></a>
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="reacthookform"/></a>
+   <br><br>
   <strong>Backend Development:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express"/></a>
   <br><br>
+  <strong>Backend Tools:</strong><br>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs"/></a>
+  <a href="http://www.passportjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=white" alt="passport"/></a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="jwt"/></a>
+  <br><br>
   <strong>Databases & ORMs:</strong><br>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Neon_DB-42D69B?style=flat&logo=postgresql&logoColor=white" alt="neon-db"/></a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/></a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/></a>
 </p>
