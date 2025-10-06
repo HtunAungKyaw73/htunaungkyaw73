@@ -73,20 +73,20 @@ Here are some of the technologies I work with:
 <strong>Containerization & Orchestration:</strong><br>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
- </p>
  <br><br>
 <strong>Testing & QA:</strong><br>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/> </a>
- <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing_Library-E3006F?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"/> </a>
- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/></a>
+ <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing_Library-E3006F?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"/></a>
+ <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/></a>
 <br><br>
 <strong>DevOps & CI/CD:</strong><br>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
- <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"/> </a>
- <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> </a>
- <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
- 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+ <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"/></a>
+ <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+ <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+  </p>
+  
 ---
 
 ### 📊 My GitHub Stats
@@ -103,14 +103,6 @@ Here are some of the technologies I work with:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HtunAungKyaw73&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 My GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtunAungKyaw73&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
