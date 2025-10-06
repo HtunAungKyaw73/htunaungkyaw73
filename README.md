@@ -44,6 +44,7 @@ Here are some of the technologies I work with:
   <a href="https://recharts.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Recharts-8884d8?style=flat&logo=recharts&logoColor=white" alt="recharts"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"/></a>
+  <br><br>
   <strong>Backend Development:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express"/></a>
