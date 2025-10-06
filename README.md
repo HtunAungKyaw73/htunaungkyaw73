@@ -52,6 +52,8 @@ Here are some of the technologies I work with:
   <a href="https://tanstack.com/query/latest/docs/react/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query"/></a>
  <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" alt="RTK Query"/></a>
  <a href="https://zustand.docs.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white" alt="Zustand"/></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/></a>
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/></a>
    <br><br>
   <strong>Backend Development:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
@@ -60,6 +62,7 @@ Here are some of the technologies I work with:
   <br><br>
   <strong>Backend Tools:</strong><br>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger"/></a>
   <a href="http://www.passportjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=white" alt="passport"/></a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="jwt"/></a>
   <br><br>
@@ -67,6 +70,7 @@ Here are some of the technologies I work with:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/></a>
   <a href="https://neon.tech/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Neon_DB-42D69B?style=flat&logo=postgresql&logoColor=white" alt="neon-db"/></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/></a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/></a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/></a>
   <br><br>
