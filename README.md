@@ -18,7 +18,7 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://htunaungkyaw-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="portfolio"/></a>
+  <a href="https://htunaungkyaw-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
   <a href="https://www.linkedin.com/in/htun-aung-kyaw-385285352/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
@@ -67,7 +67,7 @@ Here are some of the technologies I work with:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/></a>
   <a href="https://neon.tech/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Neon_DB-42D69B?style=flat&logo=postgresql&logoColor=white" alt="neon-db"/></a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/>    </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/>   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/></a>
   <br><br>
 <strong>Containerization & Orchestration:</strong><br>
