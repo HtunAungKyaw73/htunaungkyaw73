@@ -98,11 +98,3 @@ Here are some of the technologies I work with:
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtunAungKyaw73&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
