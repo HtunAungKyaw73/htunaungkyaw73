@@ -30,7 +30,7 @@ Here are some of the technologies I work with:
 
 <p align="left">
   <strong>Languages:</strong><br>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/></a>
   <br><br>
@@ -45,15 +45,20 @@ Here are some of the technologies I work with:
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"/></a>
   <br><br>
+  <strong>Frontend Tools:</strong><br>
+  <a href="https://axios-http.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="axios"/> </a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="zod"/> </a>
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="reacthookform"/> </a>
+  <br><br>
   <strong>Backend Development:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express"/></a>
   <br><br>
   <strong>Databases & ORMs:</strong><br>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/> </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/></a>
 </p>
 
 ---
