@@ -56,10 +56,10 @@ Here are some of the technologies I work with:
   <strong>Backend Development:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs"/></a>
   <br><br>
   <strong>Backend Tools:</strong><br>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="typescript"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs"/></a>
   <a href="http://www.passportjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=white" alt="passport"/></a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="jwt"/></a>
   <br><br>
@@ -74,6 +74,18 @@ Here are some of the technologies I work with:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
  </p>
+ <br><br>
+<strong>Testing & QA:</strong><br>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/> </a>
+ <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing_Library-E3006F?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library"/> </a>
+ <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/> </a>
+<br><br>
+<strong>DevOps & CI/CD:</strong><br>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
+ <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"/> </a>
+ <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> </a>
+ <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
  
 ---
 
@@ -83,6 +95,22 @@ Here are some of the technologies I work with:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtunAungKyaw73&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HtunAungKyaw73&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 My GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtunAungKyaw73&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
