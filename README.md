@@ -70,7 +70,10 @@ Here are some of the technologies I work with:
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="mongoose"/></a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/></a>
 </p>
-
+<br><br>
+<strong>Containerization & Orchestration:</strong><br>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
+ <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
 ---
 
 ### 📊 My GitHub Stats
