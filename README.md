@@ -54,12 +54,14 @@ Here are some of the technologies I work with:
  <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" alt="RTK Query"/></a>
  <a href="https://zustand.docs.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white" alt="Zustand"/></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/></a>
-   <br><br>
+  <br><br>
   <strong>Backend Development:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express"/></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs"/></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/></a>
   <br><br>
   <strong>Backend Tools:</strong><br>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="typescript"/></a>
