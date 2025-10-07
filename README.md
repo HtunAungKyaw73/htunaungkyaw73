@@ -34,6 +34,10 @@ Here are some of the technologies I work with:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/></a>
   <br><br>
+  <strong>Programming Paradigms:</strong><br>  <-- NEW SECTION
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OOP-1C4D78?style=flat&logoColor=white" alt="Object Oriented Programming"/></a>
+  <a href="https://en.wikipedia.org/wiki/Functional_programming" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Functional_Programming-0099CC?style=flat&logoColor=white" alt="Functional Programming"/></a>
+  <br><br>
   <strong>Frontend Development:</strong><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="nextjs"/></a>
@@ -61,6 +65,7 @@ Here are some of the technologies I work with:
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express"/></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs"/></a>
+  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/REST-02303A?style=flat&logo=json&logoColor=white" alt="REST"/></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/></a>
   <br><br>
   <strong>Backend Tools:</strong><br>
