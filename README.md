@@ -35,8 +35,8 @@ Here are some of the technologies I work with:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/></a>
   <br><br>
   <strong>Programming Paradigms:</strong><br>
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OOP-1C4D78?style=flat&logoColor=white" alt="Object Oriented Programming"/></a>
-  <a href="https://en.wikipedia.org/wiki/Functional_programming" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Functional_Programming-0099CC?style=flat&logoColor=white" alt="Functional Programming"/></a>
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OOP-1C4D78?style=flat&logoColor=white" alt="Object Oriented Programming"/></a>
+  <a href="https://en.wikipedia.org/wiki/Functional_programming" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Functional_Programming-0099CC?style=flat&logoColor=white" alt="Functional Programming"/></a>
   <br><br>
   <strong>Frontend Development:</strong><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react"/></a>
