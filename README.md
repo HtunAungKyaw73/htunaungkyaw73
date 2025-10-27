@@ -45,7 +45,7 @@ Here are some of the technologies I work with:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="tailwindcss"/></a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" alt="mui"/></a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcnui"/></a>
-  <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI"/> </a>
+  <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI"/></a>
   <a href="https://recharts.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Recharts-8884d8?style=flat&logo=recharts&logoColor=white" alt="recharts"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"/></a>
