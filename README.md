@@ -9,7 +9,7 @@
   I'm a developer with a strong foundation in both front-end and back-end technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I love to learn new things and am always looking to expand my skillset.
 
   - 🔭 I’m currently working on a cool project involving **Express.js and PostgreSQL and Prisma ORM**.
-  - 🌱 I’m currently learning more about **DevOps and cloud deployment**.
+  - 🌱 I’m currently learning more about **DevOps and cloud deployment, Unit Test Libraries, and Design Architecture**.
   - 📫 How to reach me: **htunaungkyaw730@gmail.com**
 </p>
 
