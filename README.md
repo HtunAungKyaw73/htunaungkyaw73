@@ -100,13 +100,3 @@ Here are some of the technologies I work with:
 </p>
   
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center" style="display: none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtunAungKyaw73&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73" alt="Top Languages" />
-</p>
-
----
